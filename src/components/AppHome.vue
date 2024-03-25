@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="home-wrapper">
         
     </div>
 </template>
@@ -10,6 +10,12 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
-    
+<style lang="scss"> 
+
+    .home-wrapper{
+        height: 95vh;
+        width: 80%;
+        background-color: red;
+        display: inline-block;
+    }
 </style>
