@@ -1,6 +1,6 @@
 <template>
     <div class="sidebar-wrapper">
-        
+        a
     </div>
 </template>
 
@@ -10,10 +10,10 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 
     .sidebar-wrapper{
-        height: 100vh;
+        height: 100%;
         width: 20%;
         background-color: blue;
         display: inline-block;

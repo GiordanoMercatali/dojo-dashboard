@@ -1,5 +1,5 @@
 <template>
-  <div class="d-flex justify-content-center">
+  <div class="container">
     <SideBar />
     <AppHome />
   </div>
@@ -19,6 +19,14 @@ export default {
 </script>
 
 <style lang="scss">
+  
+  .container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+  }
+
   *{
         margin: 0;
         padding: 0;
