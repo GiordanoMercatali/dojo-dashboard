@@ -1,6 +1,6 @@
 <template>
     <div class="home-wrapper">
-        <HomeHeader />s
+        <HomeHeader />
         <!-- <header>Ciao</header> -->
     </div>
 </template>

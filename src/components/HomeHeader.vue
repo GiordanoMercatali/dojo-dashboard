@@ -11,5 +11,6 @@ export default {
 <style lang="scss">
     .header-wrapper{
         height: 4rem;
+        background-color: white
     }
 </style>
